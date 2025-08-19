@@ -7,7 +7,7 @@ This project focused on building a **Stakeholder Insights and Performance Dashb
 - **Calculated Fields** for KPIs and metrics
 - **Parameter Controls** for interactivity
 - **Data Blending** for combining multiple sources
-- **Role-based filtering** for secure access
+- **Role-based filtering** for secure access/n
 [Live Dashboard Link](https://public.tableau.com/views/TableauBankingDataAnalytics/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![screenshot](/Dashboard.png)
